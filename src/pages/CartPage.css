@@ -1,0 +1,11 @@
+.Output{
+    background-color: rgb(200, 200, 200);
+}
+
+.foot{
+    margin-top: 50px;
+    position:relative;
+    left:0;
+    bottom:0;
+    right:0;
+}

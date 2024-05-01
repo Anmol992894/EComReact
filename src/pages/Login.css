@@ -1,0 +1,16 @@
+.foot{
+    margin-top: 50px;
+    position:relative;
+    left:0;
+    bottom:0;
+    right:0;
+}
+.login-cont{
+    width: 25%;
+}
+
+@media only screen and (max-width:580px) {
+    .login-cont{
+        width:75%;
+    }   
+}

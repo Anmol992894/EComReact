@@ -1,0 +1,16 @@
+/* Define base styles for checkout steps */
+.checkout-step {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+/* Define styles for active checkout step */
+.checkout-step.active {
+    background-color: #007bff;
+    color: #fff;
+    border-color: #007bff;
+}
